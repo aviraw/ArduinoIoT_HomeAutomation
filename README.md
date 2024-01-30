@@ -11,8 +11,11 @@ And the Thing which is my ESP8266 looks something like this.
 ![image](https://github.com/aviraw/ArduinoIoT_HomeAutomation/assets/47274991/ba59a6ef-692c-483f-9ccf-2e549f89f47c)
 
 Video Documentation
+
 Version 1 https://github.com/aviraw/ArduinoIoT_HomeAutomation/assets/47274991/2bc6cecc-8975-409b-a12a-de4111616689
+
 Version 2 https://github.com/aviraw/ArduinoIoT_HomeAutomation/assets/47274991/a3012a6e-a640-42e4-abe0-c93465cf0aa7
+
 Version 3 https://github.com/aviraw/ArduinoIoT_HomeAutomation/assets/47274991/ad4aef07-0de9-41f6-9f06-8e5a3d3b680c
 
 
